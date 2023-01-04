@@ -201,7 +201,3 @@ textblob:         $ conda install -c conda-forge textblob
 * Step 1: Download pycharm IDE community edition by using [this link](https://www.jetbrains.com/pycharm-edu/download/#section=windows)
 
 * Step 2: Install `.exe` file.
-
-## Code credit
-
-Code credits for this code go to [Rounak Banik](https://github.com/rounakbanik) I've merely created a wrapper and necessary changes to get people started.

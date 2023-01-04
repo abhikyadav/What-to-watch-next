@@ -1,4 +1,4 @@
-# Movie Recommendation Engine
+# What to watch next!
 
 This repository contains the code for building movie recommendation engine.
 
